@@ -1,0 +1,10 @@
+@use 'base/variables' as *;
+
+h1{
+    background: $color-secundario;
+    background-color: $color-terciario;
+    @include media(){
+        color: $color-primario;
+    }
+}
+

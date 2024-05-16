@@ -1,0 +1,15 @@
+{
+  "name": "gulpsass2",
+  "version": "1.0.0",
+  "description": "proyecto gulp con sass",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "juan david florez",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^5.0.0",
+    "gulp-sass": "^5.1.0"
+  }
+}
